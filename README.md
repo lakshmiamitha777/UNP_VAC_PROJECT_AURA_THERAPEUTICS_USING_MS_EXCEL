@@ -1,1 +1,4 @@
 # UNP_VAC_PROJECT_AURA_THERAPEUTICS_USING_MS_EXCEL
+I successfully completed a **Business Statistics with AI course from UNP Education**, where I gained practical knowledge of statistical analysis and its applications in business. As part of my practical project, I worked on a pharmaceutical distribution dataset using Microsoft Excel, performing data preprocessing, creating Pivot Tables and Charts, and applying statistical techniques such as Z-tests, T-tests, ANOVA, correlation, and regression analysis. UNP Education helped me strengthen my analytical thinking, Excel skills, and ability to interpret data, draw meaningful insights, and make data-driven business decisions. I am grateful to UNP Education for providing this valuable learning experience.
+MS EXCEL PROJECT FILE LINK:
+https://drive.google.com/drive/folders/18EiN1bVD3Z6b1BRZ0lZ2wiiQY0cNIbxG?usp=sharing
